@@ -4,11 +4,13 @@
   "type": "BEP20",
   "decimals": 18,
   "description": "World population token. Supply mirrors global population with real-time birth/death rates. 8% transaction fee: 7% goes to lottery pool (1 random winner every 24h), 1% to creator. Minimum 1000 BINGO to qualify for lottery. Fully autonomous, zero maintenance.",
-  "website": "https://t.me/BINGO_TOKENN",
+  "website": "https://dexscreener.com/bsc/0x8a447abcb2c4a8a77392e88a6556ff68fbe8f4ac",
   "explorer": "https://bscscan.com/token/0x5f6e1fF0379e7525c40d746e9FBA8519b3875c28",
   "status": "active",
   "id": "0x5f6e1fF0379e7525c40d746e9FBA8519b3875c28",
   "links": [
-    {"name": "telegram", "url": "https://t.me/BINGO_TOKENN"}
-  ]
+    {"name": "telegram", "url": "https://t.me/BINGO_TOKENN"},
+    {"name": "twitter", "url": "https://x.com/NakimuraSatoshi"}
+  ],
+  "tags": ["defi", "games"]
 }
